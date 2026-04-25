@@ -6,5 +6,9 @@ export const SITE_CONFIG = [
     {
         "path": "CardFlip",
         "title": "Card Flip",
-    }
+    },
+    {
+        "path": "Tabs",
+        "title": "Tabs",
+    },
 ]
